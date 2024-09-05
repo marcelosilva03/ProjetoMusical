@@ -29,6 +29,34 @@ let compositores = [
         biografia: "Antonio Vivaldi foi um compositor italiano do período Barroco, conhecido por suas obras para violino e por suas inovações na escrita musical. Suas 'Quatro Estações' são uma das obras mais famosas da música clássica e um exemplo brilhante de sua maestria na composição.",
         link: "https://pt.wikipedia.org/wiki/Antonio_Vivaldi"
     },
+    {
+        instagram: "https://www.instagram.com/mozartclassics/",
+        titulo: "Wolfgang Amadeus Mozart",
+        descrição: "Mozart: O Gênio Musical Austríaco",
+        biografia: "Wolfgang Amadeus Mozart foi um prodígio musical que compôs uma vasta quantidade de obras em diversos gêneros musicais. Sua música é caracterizada por uma elegância e perfeição formal que o tornaram um dos compositores mais influentes de todos os tempos. Algumas de suas obras mais conhecidas incluem as óperas 'As Bodas de Figaro' e 'Don Giovanni'.",
+        link: "https://pt.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+    },
+    {
+        instagram: "https://www.instagram.com/bachclassicals/",
+        titulo: "Johann Sebastian Bach",
+        descrição: "Bach: O Pai da Música Alemã",
+        biografia: "Johann Sebastian Bach foi um dos maiores compositores barrocos. Sua música é caracterizada por uma complexidade contrapontística e uma profunda espiritualidade. Bach exerceu uma enorme influência sobre os compositores que o sucederam e é considerado um dos pilares da música ocidental. Algumas de suas obras mais conhecidas incluem o 'Cravo Bem Temperado' e as 'Suítes para Orquestra'.",
+        link: "https://pt.wikipedia.org/wiki/Johann_Sebastian_Bach"
+    },
+    {
+        instagram: "https://www.instagram.com/maestro.thiagosantos/reel/C-DdIQBAtA5/",
+        titulo: "Compositor Barroco", 
+        descrição: "O Barroco: Época de Grande Expressividade",
+        biografia: "O período barroco foi marcado por uma grande complexidade musical e uma busca por emoções intensas. Compositores barrocos como Bach e Handel dominaram a Europa com suas obras.",
+        link: "https://pt.wikipedia.org/wiki/Barroco_(música)"
+    },
+    {
+        instagram: "https://www.instagram.com/fschubertfilh/",
+        titulo: "Franz Schubert",
+        descrição: "Schubert: O Mestre da Lied",
+        biografia: "Franz Schubert foi um compositor austríaco do período clássico e romântico, conhecido por suas belas melodias e profundo lirismo. Suas obras mais famosas incluem os ciclos de lieder, como 'A Bela Moça do Lago' e 'A Troutinha'.",
+        link: "https://pt.wikipedia.org/wiki/Franz_Schubert"
+    },
 ]
 
 
