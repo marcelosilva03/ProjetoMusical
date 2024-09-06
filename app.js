@@ -6,7 +6,7 @@ let campoPesquisa = document.getElementById("campo-pesquisa").value
 
 // se campoPesquisa for um campo sem nada
 if(!campoPesquisa) {
-    section.innerHTML = "<p>NENHUM COMPOSITOR ENCONTRADO.</p> <p>digite sua palavra busca/chave.</p>"
+    section.innerHTML = "<strong>NENHUM COMPOSITOR ENCONTRADO.</strong> <strong>digite sua palavra busca/chave.</strong>"
     return
 }
 
@@ -24,6 +24,7 @@ campoPesquisa = campoPesquisa.toLowerCase()
         titulo = dado.titulo.toLowerCase()
         descrição = dado.descrição.toLowerCase()    
         biografia = dado.biografia.toLowerCase()
+        tags = dado.tags.toLowerCase()
         //se titulo includes campoPesquisa
         if (titulo.includes(campoPesquisa) || descrição.includes(campoPesquisa) || biografia.includes(campoPesquisa) || tags.includes(campoPesquisa)) {
             // cria um  novo resultado
@@ -43,7 +44,7 @@ campoPesquisa = campoPesquisa.toLowerCase()
     }
 
     if (!resultados) {
-        resultados = "<p>NENHUM COMPOSITOR ENCONTRADO</p>"
+        resultados = "<strong>NENHUM COMPOSITOR ENCONTRADO.</strong>";
     }
 
     // Insere os resultados gerados na seção HTML
