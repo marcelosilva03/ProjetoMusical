@@ -12,7 +12,7 @@ body {
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0;
     padding: 0;
-    background-image: url(/fundo.jpeg);
+    background-image: url(/fundo2.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
