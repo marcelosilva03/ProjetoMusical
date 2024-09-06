@@ -24,7 +24,6 @@ campoPesquisa = campoPesquisa.toLowerCase()
         titulo = dado.titulo.toLowerCase()
         descrição = dado.descrição.toLowerCase()    
         biografia = dado.biografia.toLowerCase()
-        tags = dado.tags.toLowerCase()
         //se titulo includes campoPesquisa
         if (titulo.includes(campoPesquisa) || descrição.includes(campoPesquisa) || biografia.includes(campoPesquisa) || tags.includes(campoPesquisa)) {
             // cria um  novo resultado
