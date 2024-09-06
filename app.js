@@ -43,7 +43,7 @@ campoPesquisa = campoPesquisa.toLowerCase()
     }
 
     if (!resultados) {
-        resultados == "<p>NENHUM COMPOSITOR ENCONTRADO</p>"
+        resultados = "<p>NENHUM COMPOSITOR ENCONTRADO</p>"
     }
 
     // Insere os resultados gerados na seção HTML
