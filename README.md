@@ -1,34 +1,16 @@
-# Conhecendo a Música Clássica
+## Hi Everyone,
+Me chamo Marcelo Silva e sou um novo intusiasta e aspirante na area da tecnologia!
 
-## Descrição
-Este projeto web tem como objetivo auxiliar na pesquisa de compositores clássicos. O usuário pode realizar buscas por nome, descrição, biografia ou tags relacionadas ao compositor.
+## Conecte - se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-silva-99414a222/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marceloyan231@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelosilva03)
 
-## Funcionalidades
-* **Pesquisa:** Permite realizar buscas por termos específicos.
-* **Resultados:** Exibe os resultados da pesquisa de forma clara e organizada, incluindo:
-  * Nome do compositor
-  * Descrição breve
-  * Biografia resumida
-  * Links para mais informações e redes sociais
-* **Responsividade:** A interface se adapta a diferentes tamanhos de tela.
+## Habilidades
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcelosilva03&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Tecnologias Utilizadas
-* **HTML:** Estrutura da página.
-* **CSS:** Estilização da página.
-* **JavaScript:** Lógica da aplicação, incluindo a função de pesquisa e a manipulação do DOM.
+## Github stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelosilva03&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hiede_stars=true)
 
-## Como Usar
-1. **Clone o repositório:**
-   ```bash
-   git clone [URL inválido removido]
-   ```
-2. **Abra o arquivo `index.html` em um navegador web.**
-3. **Insira o nome do compositor desejado no campo de pesquisa e clique no botão "Pesquisar".**
-
-## Contribuições
-Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, por favor, abra um issue ou faça um pull request.
-
-## Autor
-MArcelo Ian dos Santos Silva
-```
-
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosilva03&repo=ProjetoMusical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marcelosilva03/ProjetoMusical)
