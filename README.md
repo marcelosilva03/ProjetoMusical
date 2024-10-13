@@ -3,7 +3,7 @@ Me chamo Marcelo Silva e sou um novo intusiasta e aspirante na area da tecnologi
 
 # Descrição do Projeto
 
-projeto desenvolvido para fins educativos e aprendizagem do curso Imersão dev ministrado pela Alura Cursos!
+projeto desenvolvido para fins educativos e de aprendizagem do curso Imersão dev ministrado pela Alura Cursos!
 
 ## Conecte - se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-silva-99414a222/)
