@@ -13,4 +13,4 @@ projeto desenvolvido para fins educativos e aprendizagem do curso Imersão dev m
 ## ‼️: Linguagens Utilizadas
 :orange_circle: HTML, :large_blue_circle: CSS, :yellow_circle: JavaScript
 
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
