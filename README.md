@@ -11,6 +11,5 @@ projeto desenvolvido para fins educativos e aprendizagem do curso Imersão dev m
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelosilva03)
 
 ## ‼️: Linguagens Utilizadas
-:orange_circle: HTML, :large_blue_circle: CSS, :yellow_circle: JavaScript
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS, [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
